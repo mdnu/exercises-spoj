@@ -1,2 +1,2 @@
 # exercises-spoj
-spoj
+ｓｐｏｊ
