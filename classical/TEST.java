@@ -7,7 +7,6 @@ of one or two digits. */
 import java.io.*;
 import java.util.*;
 
-
 class TEST {
 	
 	private static final Scanner in = new Scanner(System.in);
@@ -25,5 +24,4 @@ class TEST {
 	public static void main(String[] args) throws IOException {
 		new TEST().run();
 	}
-	
 }
